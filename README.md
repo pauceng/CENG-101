@@ -1,7 +1,7 @@
 CENG-101
 ========
 
-PAU Algoritmalar ve Programlama çıkmış soruların çözümleri.
+PAU Algoritmalar ve Programlama dersi 20003-2012 vize ve final çıkmış soruların çözümleri.
 
 ![][1]
 
